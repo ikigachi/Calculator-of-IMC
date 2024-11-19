@@ -1,5 +1,5 @@
 # BMI Calculator
-def calculate_bmi_with_tuples():
+def calculate_bmi():
     # Input data
     name = input("What's your name? ")
     weight = float(input(f"Alright, {name}, what's your weight in kg? "))

@@ -46,4 +46,4 @@ def calculate_bmi():
     print("\nRemember: Your BMI is just a number. Stay happy and healthy! 💪")
 
 # Run the calculator
-calculate_bmi_with_tuples()
+calculate_bmi()

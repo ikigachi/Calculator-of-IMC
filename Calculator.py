@@ -4,7 +4,7 @@ def calculate_bmi():
     name = input("What's your name? ")
     weight = float(input(f"Alright, {name}, what's your weight in kg? "))
     height = float(input(f"And your height in meters? "))
-    age = int(input("How young are you? "))
+    age = int(input("How old are you? "))
     gender = input("Lastly, what's your gender? (M/F): ").strip().upper()
 
     # Create a tuple for user info
